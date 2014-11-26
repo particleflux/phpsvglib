@@ -1,0 +1,10 @@
+{
+    "name": "particleflux/phpsvglib",
+    "description": "PHP SVG lib",
+    "authors": [
+        {
+            "name": "Eduardo Bonfandini",
+        }
+    ],
+    "require": {}
+}
